@@ -13,7 +13,7 @@ Utworzył pli clicker.csproj
 pytał o pozwolenie na dotnet build i dotnet run
 - Pierwszy błąd i co agent z nim zrobił: 
 Nie wystąpiły projekty
-- Stan po 25 minutach: działa / częściowo / nie działa / nie wiem
+- Stan po 25 minutach: działa / częściowo / nie działa / nie wiem:
 Działa
 - Skąd wiem, że aplikacja działa (co zostało sprawdzone): 
 Sprawdziłem ręcznie funkcjonalność licznika kliknięć i przycisku wyzeruj
